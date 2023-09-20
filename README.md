@@ -8,5 +8,5 @@
 > OPENAI_API_KEY=yourapikey
 >
 > 
-> run the npm run dev command on the terminal.
+> run <code>npm run dev</code> command on the terminal.
 ## Done!
